@@ -1,12 +1,38 @@
-# React + Vite
+Click => https://imagify-fullstack-frontend.onrender.com
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# IMAGIFY-Front-End
 
-Currently, two official plugins are available:
+## 📸 Screenshots  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+Coming Soon!!
+</p>
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# What is this?
+IMAGIFY is a full-stack image tool that lets you upload, edit, and manage pictures easily. Think of it as your personal mini-Photoshop, built right into the browser.
+
+# What can it do?
+- Login securely with tokens
+- Upload images from your device
+- Resize, crop, or add cool filters
+- View and manage all your edits in one place
+
+# Tools used
+- Frontend: React.js
+- Backend: Node.js + Express
+- PostMan
+- Database: MongoDB
+- Image handling: Sharp
+- Use AI to make the format structure more readable
+
+# How to run it
+After cloning the repo:
+```bash
+npm install
+npm start
+// Frontend-- npm run dev
+Built with ❤️ by Adarsh — always learning, experimenting, and building cool stuff
+
+
+If you'd like to add a little screenshot preview, dark/light mode badge, or contributor guide, I can help with that too. Want this to reflect your vibe more? Just say the word!
